@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melisa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif">
+<img align="right" alt="coding" width="400" border-radius="20px" src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisaeldem&label=Profile%20views&color=0e75b6&style=flat" alt="melisaeldem" /> </p>
 
